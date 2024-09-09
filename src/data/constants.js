@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/chandusiriyala7",
   resume:
-    "https://drive.google.com/file/d/1PDnWWka_89G2ZR1IKxm6UV9AiOL2Qw6m/view?usp=sharing",
+    "https://drive.google.com/file/d/1y6O77UlV--7kDjMlEWEvfB1h7hXhvk4O/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/chandusiriyala7/",
   insta: "https://www.instagram.com/chandusiriyala/",
 };
