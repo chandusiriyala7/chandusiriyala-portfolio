@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
@@ -61,3 +62,7 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+=======
+# chandusiriyala-portfolio
+ChanduSiriyala is My Portfolio Website Where I have Included My Education , Skills, Experience and my Projects.
+>>>>>>> origin/main
