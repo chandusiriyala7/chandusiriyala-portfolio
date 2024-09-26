@@ -185,7 +185,7 @@ export const experiences = [
   {
     id: 1,
     img: "https://media.licdn.com/dms/image/v2/C560BAQG6BSo6-LKsyQ/company-logo_200_200/company-logo_200_200/0/1679772461239?e=1733961600&v=beta&t=5gDgVWIHImCvkV1IQtmjHSLNRsimaTvZizxGARqNOgY",
-    role: "Fullstack Externship",
+    role: "Fullstack Internship",
     company: "Next24 Technology & Services",
     date: "June 2023 - July 2023",
     desc: "Built an grocery delivery full stack web app . I was the top performer in the program.",
