@@ -169,6 +169,7 @@ export const experiences = [
     date: "August 2024 - Present",
     desc: "Working on the web applications using ReactJS, Redux, and Material UI and NodeJS, ExpressJS, MongoDB, SQL",
     skills: [
+      "NextJS",
       "ReactJS",
       "Redux",
       "NodeJs",
