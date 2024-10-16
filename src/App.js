@@ -13,7 +13,9 @@ import Footer from "./components/Footer";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
+import Calendar from "./components/Calender/Calender.js";
 import styled from "styled-components";
+
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -44,6 +46,7 @@ function App() {
           <Wrapper>
             <Education />
             <Contact />
+            <Calendar />
           </Wrapper>
           <Footer />
           {openModal.state &&
