@@ -46,7 +46,7 @@ function App() {
           <Wrapper>
             <Education />
             <Contact />
-            <Calendar />
+             
           </Wrapper>
           <Footer />
           {openModal.state &&
